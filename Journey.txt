@@ -1,0 +1,27 @@
+Firstly, todaay is day one serious one but don't feel to code as much trying to make a everyday thing, it's just that i'm aalone. 
+No worries, I will start from easy questions to give me the motivation to go...
+
+Will follow the repo which I starred and read books and increase my knowledge to get better pay any day. 
+
+Going to work for big tech made my decision.
+
+Everyday practice
+
+
+-- Today 7/05/22
+	Made up my mind for working at big tech company, from today I have only one goal to study and make it to big tech, 
+	hopefully after 3 months wanna give a trial interiview at whichever company that's hiring. Everyday aming at 5 question and 
+	studying those sections in depth. Firstly, wanna do them on my own without code editor and wanna analyze what I remember from 
+	my degree. Later, if I don't know about it then read and write the code. This will be done from today onwards, on the side to 
+	improve my resume I will contribute on the open source projects and add the schedule on linkedIn just to improve my profile.
+	Learn and write everyday a blog or something from freecodecamp that I learn. This is very important such that I make myself 
+	busy with a schedule cause I don't wanna think about any negative things of life. Hopefully this would be helpful to those 
+	who read this.
+
+-- Today 9/05/22
+	Finally started, spent more than 2 hours and doing questions, however still left with some more questions on Big O Notation.
+	Well wanna understand fully such that I don't mess up anything with complexity. Need to do this everyday, make this going 
+	on.
+
+-- Today 14/05/22
+  Well ready by 6AM like old times, full focus on doing questions and learning 
