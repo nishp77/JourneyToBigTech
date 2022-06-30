@@ -1,6 +1,6 @@
 from typing import Optional
 import sys
-from leetcode.TreeNode import TreeNode
+from TreeNode import TreeNode
 
 
 class Solution98:

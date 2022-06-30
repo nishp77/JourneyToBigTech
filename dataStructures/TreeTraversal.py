@@ -39,37 +39,21 @@ def Rinorder(root):
 
 # iterative inorder
 def Iinorder(root):
-    # list = []
-    # done = False
-    # curr = root
-
-    # while done is not True:
-    #     if curr is not None:
-    #         list.append(curr)
-    #         curr = curr.left
-    #     else:
-    #         if len(list) == 0:
-    #             done = True
-    #         else:
-    #             curr = list.pop()
-    #             print(curr.value)
-    #             curr = curr.right
-
     list = []
-    list.append(root)
+    done = False
+    curr = root
 
-    while(len(list)> 0):
-        curr = list.pop()
-
-        if curr.left is not None:
-            list.append(curr.left)
+    while done is not True:
+        if curr is not None:
+            list.append(curr)
             curr = curr.left
-        
-        print(curr.value)
-
-        if curr.right is not None:
-            list.append(curr.right)
-            curr = curr.right
+        else:
+            if len(list) == 0:
+                done = True
+            else:
+                curr = list.pop()
+                print(curr.value)
+                curr = curr.right
 
 
 # recursive postorder
@@ -126,5 +110,5 @@ if __name__ == '__main__':
     root.right.left.left = Node(7)
     root.right.left.right = Node(8)
  
-    Rpostorder(root)
+    Iinorder(root)
 
